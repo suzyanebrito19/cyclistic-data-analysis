@@ -7,8 +7,6 @@ Para isso, foi utilizado SQL para responder perguntas de negócio e realizar an�
 
 ## Pergunta de Negócio
 
-## 🎯 Pergunta de Negócio
-
 Como os membros anuais e os usuários casuais utilizam as bicicletas da Cyclistic de maneira diferente?
 
 O objetivo desta análise é identificar padrões de comportamento entre esses dois grupos de usuários, a fim de apoiar estratégias de marketing que incentivem a conversão de usuários casuais em membros anuais.
