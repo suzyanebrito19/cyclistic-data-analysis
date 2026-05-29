@@ -15,18 +15,61 @@ A análise parte da premissa de que membros são mais lucrativos. Portanto, ente
 
 A análise foi estruturada para responder perguntas de negócio através dos seguintes pontos:
 
-Frequência de uso
-Duração das viagens
-Padrões por horário
-Distribuição por dias da semana
-Preferência por tipo de bicicleta
+* Frequência de uso
+* Duração das viagens
+* Padrões por horário
+* Distribuição por dias da semana
+* Preferência por tipo de bicicleta
 
-Essas dimensões permitiram identificar diferenças claras entre uso recorrente (membros) e uso ocasional (casuais).
+##  O que eu fiz neste projeto
 
- ## O que eu fiz neste projeto
- 
--Extração e exploração de dados utilizando SQL
--Limpeza e tratamento dos dados para análise
-Criação de métricas relevantes para o negócio
-Desenvolvimento de dashboard no Power BI focado em tomada de decisão
-Tradução dos dados em insights acionáveis
+* Extração e exploração de dados utilizando SQL
+* Limpeza e tratamento dos dados para análise
+* Criação de métricas relevantes para o negócio
+* Desenvolvimento de dashboard no Power BI focado em tomada de decisão
+* Tradução dos dados em insights acionáveis
+
+##  Ferramentas Utilizadas
+
+* **Excel**
+  Utilizado para verificações iniciais da estrutura dos dados e criação de colunas derivadas.
+
+* **Google BigQuery (SQL)**
+  Principal ferramenta para limpeza, transformação, mesclagem e análise dos dados.
+
+* **Power BI**
+  Utilizado para visualização dos dados e desenvolvimento de dashboards interativos.
+
+  ## Principais Insights
+
+A análise revelou diferenças claras no comportamento entre membros anuais e usuários casuais:
+
+* **Padrão de uso**
+
+  * Usuários casuais utilizam o serviço principalmente nos finais de semana
+  * Membros apresentam uso mais frequente durante dias úteis
+
+* **Objetivo das viagens**
+
+  * Usuários casuais realizam viagens mais longas, indicando uso recreativo
+  * Membros realizam viagens mais curtas e recorrentes, sugerindo uso para deslocamento diário
+
+* **Horários de uso**
+
+  * Membros concentram uso em horários de pico (manhã e fim da tarde)
+  * Usuários casuais utilizam mais no período da tarde
+
+* **Sazonalidade**
+
+  * Usuários casuais são mais impactados por estações do ano (maior uso no verão)
+  * Membros mantêm comportamento mais estável ao longo do tempo
+
+##  Interpretação de Negócio
+
+Os dados indicam que usuários casuais utilizam o serviço de forma ocasional e recreativa, enquanto membros incorporam o uso na rotina diária.
+
+Isso sugere que a conversão depende de:
+
+* transformar uso ocasional em hábito
+* oferecer valor contínuo ao usuário
+
