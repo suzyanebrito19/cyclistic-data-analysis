@@ -23,50 +23,46 @@ A análise foi estruturada para responder perguntas de negócio através dos seg
 
 ##  O que eu fiz neste projeto
 
-* Extração e exploração de dados utilizando SQL
-* Limpeza e tratamento dos dados para análise
-* Criação de métricas relevantes para o negócio
-* Desenvolvimento de dashboard no Power BI focado em tomada de decisão
-* Tradução dos dados em insights acionáveis
+1. Extração e exploração de dados utilizando SQL
+2. Limpeza e tratamento dos dados para análise
+3. Criação de métricas relevantes para o negócio
+4. Desenvolvimento de dashboard no Power BI focado em tomada de decisão
+5. Tradução dos dados em insights acionáveis
 
 ##  Ferramentas Utilizadas
 
-* **Excel**
+* **Excel:**
   Utilizado para verificações iniciais da estrutura dos dados e criação de colunas derivadas.
 
-* **Google BigQuery (SQL)**
+* **Google BigQuery (SQL):**
   Principal ferramenta para limpeza, transformação, mesclagem e análise dos dados.
 
-* **Power BI**
+* **Power BI:**
   Utilizado para visualização dos dados e desenvolvimento de dashboards interativos.
 
 ## Principais Insights
 
-A análise revelou diferenças claras no comportamento entre membros anuais e usuários casuais:
+A análise revelou diferenças claras e mensuráveis no comportamento entre membros anuais e usuários casuais:
 
-* **Padrão de uso**
+* **Padrão de uso por dia da semana**
 
-  * Usuários casuais utilizam o serviço principalmente nos finais de semana
-  * Membros apresentam uso mais frequente durante dias úteis
+  * Usuários casuais concentram maior volume de viagens aos finais de semana, especialmente aos sábados
+  * Membros apresentam distribuição mais equilibrada, com maior volume durante dias úteis, indicando uso recorrente
 
-* **Objetivo das viagens**
+* **Duração das viagens**
 
-  * Usuários casuais realizam viagens mais longas, indicando uso recreativo
-  * Membros realizam viagens mais curtas e recorrentes, sugerindo uso para deslocamento diário
+  * Usuários casuais apresentam duração média significativamente maior (≈28 minutos)
+  * Membros realizam viagens mais curtas (≈13 minutos), sugerindo uso mais funcional e frequente
 
-* **Horários de uso**
+* **Padrões por horário**
 
-  * Membros concentram uso em horários de pico (manhã e fim da tarde)
-  * Usuários casuais utilizam mais no período da tarde
+  * Membros apresentam picos claros entre 8h–9h e 17h–18h, característicos de deslocamento diário
+  * Usuários casuais concentram uso no período da tarde, com menor intensidade nos horários de pico
 
-* **Sazonalidade**
+* **Tendência ao longo do tempo**
 
-  * Usuários casuais são mais impactados por estações do ano (maior uso no verão)
-  * Membros mantêm comportamento mais estável ao longo do tempo
-
-##  Interpretação de Negócio
-
-Os dados indicam que usuários casuais utilizam o serviço de forma ocasional e recreativa, enquanto membros incorporam o uso na rotina diária.
+  * O volume de viagens varia ao longo dos meses, com queda nos períodos mais frios e recuperação nos meses mais quentes
+  * Usuários casuais demonstram maior sensibilidade a essa variação, enquanto membros mantêm comportamento mais estável
 
 Isso sugere que a conversão depende de:
 
