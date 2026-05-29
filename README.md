@@ -40,7 +40,7 @@ A análise foi estruturada para responder perguntas de negócio através dos seg
 * **Power BI**
   Utilizado para visualização dos dados e desenvolvimento de dashboards interativos.
 
-  ## Principais Insights
+## Principais Insights
 
 A análise revelou diferenças claras no comportamento entre membros anuais e usuários casuais:
 
