@@ -108,6 +108,6 @@ Os dados indicam que usuários casuais utilizam o serviço de forma mais recreat
  
   O dashboard apresenta as principais métricas e indicadores de uso, permitindo uma análise clara do comportamento dos usuários e da performance do serviço.
 
-
+https://app.powerbi.com/view?r=eyJrIjoiZTM0ZjZjYzUtM2UyOS00ODJiLTg3NTktNDE2NjZkMDc3ZjhkIiwidCI6ImE2MDk0MDk0LWY1YjEtNDU3Yi1hODE3LTM2ZmNlOTFhYTQ3NSJ9
 
 
