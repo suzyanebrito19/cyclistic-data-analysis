@@ -88,21 +88,25 @@ O que isso indica:
  ## Recomendações Estratégicas
 
 O comportamento dos usuários revela oportunidades claras de conversão ao transformar o uso ocasional em hábito recorrente.
+<p align="justify">
+  <strong>1. Converter uso de fim de semana em recorrência.</strong> Usuários casuais concentram o uso aos finais de semana, especialmente aos sábados, enquanto membros utilizam ao longo da semana. Isso indica que o valor é percebido inicialmente no contexto de lazer, mas não evolui para rotina. A ação recomendada é ativar campanhas logo após o uso, como no domingo à noite ou na segunda-feira, com ofertas de upgrade para planos semanais ou mensais. O objetivo é aumentar a taxa de retorno nos dias úteis e acelerar a conversão para membros.
+</p>
 
-**1. Converter uso de fim de semana em recorrência**
-Usuários casuais concentram o uso aos finais de semana, especialmente aos sábados, enquanto membros utilizam ao longo da semana. Isso indica que o valor é percebido inicialmente no contexto de lazer, mas não evolui para rotina. A ação recomendada é ativar campanhas logo após o uso, como no domingo à noite ou na segunda-feira, com ofertas de upgrade para planos semanais ou mensais. O objetivo é aumentar a taxa de retorno nos dias úteis e acelerar a conversão para membros.
+<p align="justify">
+  <strong>2. Reduzir a barreira entre uso casual e assinatura.</strong> Usuários casuais apresentam alta duração média, próxima de 28 minutos, indicando engajamento relevante, mas ainda sem compromisso com o plano. A criação de opções intermediárias, como passes semanais ou pacotes de minutos, funciona como etapa de transição antes da assinatura completa. O objetivo é reduzir a fricção na decisão e aumentar a taxa de conversão de forma progressiva.
+</p>
 
-**2. Reduzir a barreira entre uso casual e assinatura**
-Usuários casuais apresentam alta duração média, próxima de 28 minutos, indicando engajamento relevante, mas ainda sem compromisso com o plano. A criação de opções intermediárias, como passes semanais ou pacotes de minutos, funciona como etapa de transição antes da assinatura completa. O objetivo é reduzir a fricção na decisão e aumentar a taxa de conversão de forma progressiva.
+<p align="justify">
+  <strong>3. Induzir comportamento de rotina.</strong> Membros apresentam picos claros nos horários de deslocamento, como entre 8h e 9h e entre 17h e 18h, enquanto usuários casuais não seguem esse padrão. Oferecer incentivos direcionados para uso nesses horários, como créditos ou benefícios em dias úteis, pode estimular a mudança de comportamento. O objetivo é incorporar o serviço na rotina diária e aumentar a frequência de uso.
+</p>
 
-**3. Induzir comportamento de rotina**
-Membros apresentam picos claros nos horários de deslocamento, como entre 8h e 9h e entre 17h e 18h, enquanto usuários casuais não seguem esse padrão. Oferecer incentivos direcionados para uso nesses horários, como créditos ou benefícios em dias úteis, pode estimular a mudança de comportamento. O objetivo é incorporar o serviço na rotina diária e aumentar a frequência de uso.
+<p align="justify">
+  <strong>4. Mitigar impacto da sazonalidade.</strong> O uso de usuários casuais apresenta variação significativa ao longo dos meses, com queda em períodos mais frios. A criação de campanhas sazonais específicas, com incentivos temporários em momentos de baixa demanda, pode ajudar a manter o engajamento. O objetivo é reduzir a volatilidade e tornar o uso mais estável ao longo do ano.
+</p>
 
-**4. Mitigar impacto da sazonalidade**
-O uso de usuários casuais apresenta variação significativa ao longo dos meses, com queda em períodos mais frios. A criação de campanhas sazonais específicas, com incentivos temporários em momentos de baixa demanda, pode ajudar a manter o engajamento. O objetivo é reduzir a volatilidade e tornar o uso mais estável ao longo do ano.
-
-**5. Reposicionar o serviço como solução de mobilidade**
-Os dados indicam que usuários casuais utilizam o serviço de forma mais recreativa, enquanto membros o utilizam como meio de transporte. Reforçar uma comunicação focada em economia, praticidade e uso no dia a dia, como deslocamentos para trabalho ou estudo, pode alterar essa percepção. O objetivo é ampliar o uso funcional do serviço e fortalecer seu papel na rotina do usuário.
+<p align="justify">
+  <strong>5. Reposicionar o serviço como solução de mobilidade.</strong> Os dados indicam que usuários casuais utilizam o serviço de forma mais recreativa, enquanto membros o utilizam como meio de transporte. Reforçar uma comunicação focada em economia, praticidade e uso no dia a dia, como deslocamentos para trabalho ou estudo, pode alterar essa percepção. O objetivo é ampliar o uso funcional do serviço e fortalecer seu papel na rotina do usuário.
+</p>
 
  ## Dashboard Interativo:
  
@@ -110,4 +114,5 @@ Os dados indicam que usuários casuais utilizam o serviço de forma mais recreat
   
   <img width="1117" height="634" alt="Image" src="https://github.com/user-attachments/assets/11e1ac16-f55e-4fda-892b-3f9855783c69" />
   
-  🔗 [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiZTM0ZjZjYzUtM2UyOS00ODJiLTg3NTktNDE2NjZkMDc3ZjhkIiwidCI6ImE2MDk0MDk0LWY1YjEtNDU3Yi1hODE3LTM2ZmNlOTFhYTQ3NSJ9)
+ ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiZTM0ZjZjYzUtM2UyOS00ODJiLTg3NTktNDE2NjZkMDc3ZjhkIiwidCI6ImE2MDk0MDk0LWY1YjEtNDU3Yi1hODE3LTM2ZmNlOTFhYTQ3NSJ9)
+
