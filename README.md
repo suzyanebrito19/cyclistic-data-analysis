@@ -107,7 +107,7 @@ Os dados indicam que usuários casuais utilizam o serviço de forma mais recreat
  ## Dashboard Interativo:
  
   O dashboard apresenta as principais métricas e indicadores de uso, permitindo uma análise clara do comportamento dos usuários e da performance do serviço.
-
-https://app.powerbi.com/view?r=eyJrIjoiZTM0ZjZjYzUtM2UyOS00ODJiLTg3NTktNDE2NjZkMDc3ZjhkIiwidCI6ImE2MDk0MDk0LWY1YjEtNDU3Yi1hODE3LTM2ZmNlOTFhYTQ3NSJ9
-
-
+  
+  <img width="1117" height="634" alt="Image" src="https://github.com/user-attachments/assets/11e1ac16-f55e-4fda-892b-3f9855783c69" />
+  
+  🔗 [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiZTM0ZjZjYzUtM2UyOS00ODJiLTg3NTktNDE2NjZkMDc3ZjhkIiwidCI6ImE2MDk0MDk0LWY1YjEtNDU3Yi1hODE3LTM2ZmNlOTFhYTQ3NSJ9)
