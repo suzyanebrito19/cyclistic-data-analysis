@@ -133,4 +133,8 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
 
 7. Tradução dos dados em insights acionáveis, conectando padrões de uso a estratégias de marketing e conversão de usuários
 
+## 🔗 Código do Projeto
 
+Acesse os arquivos SQL utilizados na análise:
+
+- SQL (BigQuery): [Ver queries](https://github.com/seu-usuario/seu-repo/tree/main/sql)
