@@ -133,8 +133,8 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
 
 7. Tradução dos dados em insights acionáveis, conectando padrões de uso a estratégias de marketing e conversão de usuários
 
-## 🔗 Código do Projeto
+## Código do Projeto
 
 Acesse as queries utilizadas na análise:
 
-- 📊 SQL (BigQuery): [Ver queries](https://github.com/suzyanebrito19/cyclistic-data-analysis/tree/main/sql)
+SQL (BigQuery): [Ver queries](https://github.com/suzyanebrito19/cyclistic-data-analysis/tree/main/sql)
