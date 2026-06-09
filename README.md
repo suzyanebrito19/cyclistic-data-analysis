@@ -138,4 +138,4 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
 
 Acesse as queries utilizadas na análise:
 
-SQL (BigQuery): [Ver queries](https://github.com/suzyanebrito19/cyclistic-data-analysis/tree/main/sql)
+[Ver queries](https://github.com/suzyanebrito19/cyclistic-data-analysis/tree/main/sql)
